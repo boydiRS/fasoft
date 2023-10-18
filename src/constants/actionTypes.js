@@ -1,0 +1,1 @@
+export const SHOW_BACK_SCREEN = 'SHOW_BACK_SCREEN';
